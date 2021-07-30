@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    santander.bootcamp.santander_bootcamp_location
+
+    SHA-1 certificate fingerprint:
+    BB:7A:27:3A:62:68:F3:9E:B1:A3:0D:DB:A7:51:46:D4:47:ED:41:E4
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBU5zmdCvVdzAdUNv2P5uXf2OZGKaX20lM</string>
+</resources>

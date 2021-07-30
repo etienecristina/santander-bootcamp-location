@@ -1,0 +1,2 @@
+rootProject.name = "santander-bootcamp-location"
+include ':app'
